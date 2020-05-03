@@ -1,0 +1,36 @@
+
+{   
+    "version": "0.0.1",
+    "author": "kefir",
+    "maplist": {
+        "hurricane": "ハリケーン宙域",
+        "lancaster": "ランカスター宙域",
+        "barracuda": "バラクーダ宙域",
+        "foxhound" : "フォックスハウンド宙域",
+        "fulmar"   : "フルマー宙域",
+        "fullback" : "フルバック宙域",
+        "colossus" : "コロッサス宙域",
+        "swordfish": "ソードフィッシュ宙域",
+        "buccaneer": "バッカニア宙域",
+        "liberator": "リベレーター宙域",
+        "arad"     : "アラド宙域",
+        "intrepid" : "イントレピッド宙域",
+        "kittyhawk": "キティホーク宙域",
+        "fury"     : "フューリー宙域",
+        "stirling" : "スターリング宙域",
+        "valiant"  : "ヴァリアント宙域",
+        "spirit"   : "スピリット宙域",
+        "tempest"  : "テンペスト宙域",
+        "argus"    : "アーガス宙域",
+        "venom"    : "ヴェノム宙域",
+        "veltro"   : "ヴェルトロ宙域",
+        "victor"   : "ヴィクター宙域",
+        "halifax"  : "ハリファックス宙域",
+        "rafale"   : "ラファール宙域",
+        "falco"    : "ファルコ宙域",
+        "folgore"  : "フォルゴーレ宙域",
+        "shangrila": "シャングリラ宙域",
+        "vulcan"   : "バルカン宙域",
+        "hermes"   : "ハーミーズ宙域"
+    }
+}
